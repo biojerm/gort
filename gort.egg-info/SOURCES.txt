@@ -1,0 +1,10 @@
+README.md
+setup.py
+gort/__init__.py
+gort/cli.py
+gort.egg-info/PKG-INFO
+gort.egg-info/SOURCES.txt
+gort.egg-info/dependency_links.txt
+gort.egg-info/entry_points.txt
+gort.egg-info/requires.txt
+gort.egg-info/top_level.txt
